@@ -9,10 +9,10 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
+| SOC Implementation and Log Analysis (Microsoft Sentinel)          | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
+| Honeynet Creation / Threat Mapping | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
 | Active Directory Creation, Management, and Defense         | <a href="https://github.com/TyDusseau/ADLab">Active Directory Lab</a>|
-| PCAP Investigation  | <a href="https://github.com/TyDusseau/PCAP">PCAP Lab (Wireshark)</a> |
+| PCAP Investigation (Wireshark) | <a href="https://github.com/TyDusseau/PCAP">PCAP Lab</a> |
 | Phishing Email Analysis      | <a href="https://github.com/TyDusseau/Email_Analysis">Email Analysis</a> |
 |  Network Analysis (Exfiltration)    | <a href="https://github.com/TyDusseau/Network_Analysis">Network Analysis</a> |
 
