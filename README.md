@@ -13,7 +13,7 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 | Honeynet Creation / Threat Mapping | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
 | Active Directory Creation, Management, and Defense         | <a href="https://github.com/TyDusseau/ADLab">Active Directory Lab</a>|
 | Phishing Email Analysis      | <a href="https://github.com/TyDusseau/Email_Analysis">Email Analysis</a> |
-| Ticketing System (Zendesk)      | <a href="https://github.com/TyDusseau/Zendesk">Zendesk</a> |
+| Ticketing Systems (Zendesk)      | <a href="https://github.com/TyDusseau/Zendesk">Zendesk</a> |
 
 ## Tools
 
