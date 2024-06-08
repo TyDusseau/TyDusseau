@@ -12,7 +12,7 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 | SOC Implementation and Log Analysis (Microsoft Sentinel)          | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
 | Honeynet Creation / Threat Mapping | <a href="https://github.com/TyDusseau/SecurityLab">Security Lab</a>|
 | Active Directory Creation, Management, and Defense         | <a href="https://github.com/TyDusseau/ADLab">Active Directory Lab</a>|
-| Phishing Email Analysis      | <a href="https://github.com/TyDusseau/Email_Analysis">Email Analysis</a> |
+| Phishing Email Analysis      | <a href="https://github.com/TyDusseau/Email_Analysis">Email Analysis Lab</a> |
 | IDS/IPS      | <a href="https://github.com/TyDusseau/Zendesk">Snort</a> |
 
 ## Tools
@@ -52,5 +52,7 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 ## Projects
 - Honeypot Security Lab
 - Active Directory Lab
-- PCAP Analysis
-- Blue Team Labs
+- PCAP Analysis Lab
+- Snort Lab
+- Email Analysis Lab
+- Other Blue Team Labs (BTLO)
