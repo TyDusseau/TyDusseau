@@ -31,11 +31,6 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
   <a href="https://mh-nexus.de/en/hxd/" target="_blank"><img src="https://img.shields.io/badge/-HxD-FF0000?&style=for-the-badge&logo=hxd&logoColor=white" /></a>
 </div>
 
-### Endpoint
-<div>
-  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-</div>
-
 ### SIEM
 <div>
   <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel" target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
