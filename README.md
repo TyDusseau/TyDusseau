@@ -14,7 +14,7 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 | Active Directory Creation, Management, and Defense         | <a href="https://github.com/TyDusseau/ADLab">Active Directory Lab</a>|
 | Phishing Email Analysis      | <a href="https://github.com/TyDusseau/Email_Analysis">Email Analysis Lab</a> |
 | IDS/IPS      | <a href="https://github.com/TyDusseau/Zendesk">Snort Lab</a> |
-| PCAP Analysis (Wireshark)    | <a href="https://github.com/TyDusseau/Zendesk">PCAP Lab</a> |
+| PCAP Analysis (Wireshark)    | <a href="https://github.com/TyDusseau/PCAP">PCAP Lab</a> |
 
 ## Tools
 
