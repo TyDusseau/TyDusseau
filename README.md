@@ -52,5 +52,5 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 ## Projects
 - Honeypot Security Lab
 - Active Directory Lab
-- Zendesk
+- PCAP Analysis
 - Blue Team Labs
