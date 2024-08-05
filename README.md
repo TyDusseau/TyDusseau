@@ -39,8 +39,12 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 
 ## Certifications
 <div>
-  <a href="https://grow.google/certificates/cybersecurity" target="_blank"><img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://www.qualys.com/training/course/vulnerability-management/" target="_blank"><img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Detection_and_Response-FF0000?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>
+  <a href="https://www.comptia.org/certifications/security" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+  <a href="https://www.qualys.com/training/course/vulnerability-management/" target="_blank">
+  <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Detection_and_Response-FFFFFF?&style=for-the-badge&logo=Qualys&logoColor=black" />
+</a>
   <a href="https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c" target="_blank"><img src="https://img.shields.io/badge/-FEMA_National_Incident_Management_System-000000?&style=for-the-badge&logoColor=white" /></a>
 </div>
 
