@@ -51,6 +51,5 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 - Honeypot Security Lab
 - Active Directory Lab
 - PCAP Analysis Lab
-- Snort Lab
+- SOAR EDR Lab
 - Email Analysis Lab
-- Other Blue Team Labs (BTLO)
