@@ -21,7 +21,6 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 ### Network
 <div>
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a                                                                                                                         
-  <a href="https://snort.org/" target="_blank"><img src="https://img.shields.io/badge/-Snort-ff69b4?&style=for-the-badge&logo=Snort&logoColor=white" /></a>
 </div>
 
 ### Analysis
