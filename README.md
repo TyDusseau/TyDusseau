@@ -45,6 +45,11 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 <div>
   <a href="https://www.comptia.org/certifications/security" target="_blank">
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
+<a href="https://www.coursera.org/google-certificates/cybersecurity-certificate?utm_source=google&utm_medium=institutions&utm_campaign=sou--https://github.com/TyDusseau/TyDusseau/edit/main/README.md__med--referral__cam--gwgsite__con--null__ter--null" target="_blank">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
+</a>
+</a>
+
 </a>
   <a href="https://www.qualys.com/training/course/vulnerability-management/" target="_blank">
   <img src="https://img.shields.io/badge/-Qualys_Vulnerability_Management_Detection_and_Response-FFFFFF?&style=for-the-badge&logo=Qualys&logoColor=black" />
@@ -53,8 +58,8 @@ Merging my dedication to justice with my affinity for computers, I uncovered a p
 </div>
 
 ## Projects
-- Honeypot Security Lab
+- Honeynet Security Lab
 - Active Directory Lab
 - PCAP Analysis Lab
 - SOAR EDR Lab
-- Email Analysis Lab
+- Email Phishing Analysis Lab
