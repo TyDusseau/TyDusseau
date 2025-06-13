@@ -3,7 +3,7 @@
 
 ## Objective
 
-Merging my dedication to justice with my affinity for computers, I uncovered a profound passion for cybersecurity. I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Merging my dedication to helping others with my passion for technology, I discovered a strong interest in IT support. I am eager to begin my career in this field, specifically aiming to join a Help Desk team as a Tier 1 Analyst.
 
 ## Skills
 
